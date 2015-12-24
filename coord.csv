@@ -1,0 +1,6 @@
+QALP1,http://stdecqavap1.va.neustar.com:8081/healthcheck?pretty=true
+QALP2,http://stdecqavap2.va.neustar.com:8081/healthcheck?pretty=true
+QALP3,http://stdecqavap3.va.neustar.com:8081/healthcheck?pretty=true
+DEV1,http://stdecdvvap1.va.neustar.com:8081/healthcheck?pretty=true
+DEV2,http://stdecdvvap2.va.neustar.com:8081/healthcheck?pretty=true
+
